@@ -1,0 +1,8 @@
+Hotel number: 1
+Hotel name: Grand Hotel
+Country: England
+City: London
+Address: Bedford St, Covent Garden
+Amount of stars: 5
+Contact person: Ivan
+
